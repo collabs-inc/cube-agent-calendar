@@ -11,5 +11,10 @@
   },
   "deployment": {
     "environment": "local"
+  },
+  "runtime": {
+    "auth": {
+      "enabled": false
+    }
   }
 }
