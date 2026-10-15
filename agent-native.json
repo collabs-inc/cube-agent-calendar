@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "onboarding": {
+    "firstRun": {
+      "development": "off",
+      "production": "off"
+    }
+  },
+  "doctor": {
+    "failOnBuild": false
+  },
+  "deployment": {
+    "environment": "local"
+  }
+}

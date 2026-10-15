@@ -1,0 +1,10 @@
+{
+  "name": "Agent-Native Calendar",
+  "description": "Calendar by Agent-Native, adapted for Cube with persistent local storage.",
+  "platforms": [
+    "linux",
+    "darwin"
+  ],
+  "install": "node cube/install.mjs",
+  "start": "node cube/start.mjs"
+}
